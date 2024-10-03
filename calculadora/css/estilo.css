@@ -6,5 +6,21 @@ body {
     width: 100%;
     display: flex;
     justify-content: center;
-    background-color :rgb(146, 76, 143);
+    background-color :rgb(102, 161, 228);
+}
+.app {
+    background-color: rgb(164, 212, 253);
+    padding: 20px;
+    border-radius: 12px;
+}
+input {
+    padding: 8px;
+    margin: 8px;
+    outline: none;
+}
+#btn-calcular {
+    background-color: rgb(153, 213, 248);
+    color: rgb(0, 0, 0);
+    padding: 12px;
+    border-radius: 4px;
 }
